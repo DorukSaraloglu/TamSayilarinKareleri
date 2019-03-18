@@ -1,0 +1,21 @@
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.exe.config
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.exe
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.pdb
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.exe
+C:\Users\iau\Desktop\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.pdb
+E:\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.exe.config
+E:\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.exe
+E:\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.pdb
+E:\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.csprojAssemblyReference.cache
+E:\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.csproj.CoreCompileInputs.cache
+E:\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.exe
+E:\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.pdb
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.exe.config
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.exe
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\bin\Debug\TamSayilarinKareleri.pdb
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.csprojAssemblyReference.cache
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.csproj.CoreCompileInputs.cache
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.exe
+G:\C# GİRİŞ\TamSayilarinKareleri\TamSayilarinKareleri\obj\Debug\TamSayilarinKareleri.pdb
